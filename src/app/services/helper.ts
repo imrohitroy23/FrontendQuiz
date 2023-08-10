@@ -1,2 +1,2 @@
-let baseUrl='https://onlinebackend-production.up.railway.app';
+let baseUrl='https://quizappa.azurewebsites.net';
 export default baseUrl;
